@@ -5,7 +5,7 @@ landscape screen. Dodge the asteroid storm, chain near-misses, and don't blink.
 
 ## Play it
 
-- **Online:** https://lustrous-cassata-b7fd41.netlify.app
+- **Online:** https://neon-rush-space.netlify.app
 - **Offline:** download `index.html` and open it in any modern browser — no
   install, no build step. (An internet connection is only needed for the
   display font; the game itself runs fully locally.)
